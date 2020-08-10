@@ -1,0 +1,30 @@
+**Bienvenidos**
+Creemos que la mejor forma de aprender es enseñando, no somos formadores,  aunque sabemos algo de tecnología y queremos compartir nuestro conocimiento sobre el ecosistema **Ruby y Ruby On Rails** , desde ya sean bienvenidos:confetti_ball: 
+
+**Horarios**
+Nos reunimos en el canal de voz #ruby101💻 de **Lunes a Viernes 8:30 PM GMT-5**, aprox **1 hora** por sesión.
+
+**Metodología**
+Crearemos un sistema **ERP**, queremos que aprendas temas como planeación, metodologías ágiles, buenas prácticas, testing, desarrollo, deployment, documentación, trabajo en remoto y trabajo en equipo
+
+**Material**
+Tenemos como guía el #libro📕 del profe **Javier Vasquez**, **NO es obligatorio** que lo tengas para que puedas compartir en esta comunidad, pero seguro si decides tenerlo te vas a sorprender de lo practico y útil que es
+
+**¿Porque esta comunidad?**
+En esta comunidad encontraras clases en vivo y acceso a los canales de **Live Testing** donde la comunidad te podrá ayudar con tu código
+
+**Vision**
+Queremos aportar a la comunidad hispano hablante, herramienta para mejorar en el aprendizaje del ecosistema **Ruby**
+
+**Roles de la comunidad**
+@Newbie 🎓 - Es el rango de bienvenida
+@Experienced 🤓 - Depende de tu participación
+@Rubyst 💎 - Tienes conocimientos y quieres compartirlos? envíanos un PM
+@Profe 🧠 - De vez en cuando pasa el profe Javier Vasquez
+@Admin ⚙️ - Crecimiento y compromiso con el canal
+
+**Roles de apoyo**
+@Youtuber📺 - eres creador de contenido en **Youtube** sobre temas del ecosistema **Ruby**? Escríbenos
+@RubyLover❤️  - Quieres aportar a la comunidad? te invitarnos a participar de forma activa en el canal, acompáñanos en una charla, crea una publicación y compártela en tus redes, ayúdanos a documentar las sesiones de lectura. Si no puedes y aun así nos quieres apoyar, puedes invitarnos un café :coffee:
+
+Siéntete libre de invitar a tus amigos https://discord.gg/jFMUSE3
